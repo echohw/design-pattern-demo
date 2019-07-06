@@ -3,7 +3,7 @@
 #### 创建型
 
 - [单例模式(Singleton)](/src/main/java/com/example/create/singleton)
-- [工厂方法模式(Factory Method)](/com/example/create/factory_method)
+- [工厂方法模式(Factory Method)](/src/main/java/com/example/create/factory_method)
 - [抽象工厂模式(Abstract Factory)](/src/main/java/com/example/create/abstract_factory)
 - [建造者模式(Builder)](/src/main/java/com/example/create/builder)
 - [原型模式(Prototype)](/src/main/java/com/example/create/prototype)
