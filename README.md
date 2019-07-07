@@ -1,8 +1,9 @@
-### Java设计模式示例
+## Java设计模式示例
 
 #### 创建型
 
 - [单例模式(Singleton)](/src/main/java/com/example/create/singleton)
+- [简单工厂模式(Simple Factory)](/src/main/java/com/example/create/simple_factory)
 - [工厂方法模式(Factory Method)](/src/main/java/com/example/create/factory_method)
 - [抽象工厂模式(Abstract Factory)](/src/main/java/com/example/create/abstract_factory)
 - [建造者模式(Builder)](/src/main/java/com/example/create/builder)
