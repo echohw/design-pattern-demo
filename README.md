@@ -25,7 +25,7 @@
 
 #### 结构性
 
-- 适配器模式
+- [适配器模式](/src/main/java/com/example/structure/adapter)
 - 桥接模式
 - 组合模式
 - 装饰模式
