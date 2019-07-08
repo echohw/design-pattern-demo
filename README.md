@@ -12,7 +12,7 @@
 #### 行为型
 
 - 访问者模式
-- 模板方法模式
+- [模板方法模式](/src/main/java/com/example/behavior/template_method)
 - 策略模式
 - 状态模式
 - 观察者模式
