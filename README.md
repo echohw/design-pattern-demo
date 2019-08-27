@@ -28,10 +28,10 @@
 - [适配器模式](/src/main/java/com/example/structure/adapter)
 - 桥接模式
 - 组合模式
-- 装饰模式
+- [装饰模式](/src/main/java/com/example/structure/decorator)
 - 外观模式
 - 享元模式
-- 代理模式
+- [代理模式](/src/main/java/com/example/structure/proxy)
 
 ---
 
